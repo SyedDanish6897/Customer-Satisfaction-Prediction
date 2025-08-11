@@ -87,9 +87,7 @@ Some key insights found from EDA:
 - **Middle-aged customers (31–50)** raise the most tickets.
 - Certain products have consistently high or low ratings.
 
-*(💡 Add screenshots of plots here for better presentation on GitHub)*
 
----
 
 ## 📈 Model Performance
 - **Algorithm:** Random Forest Classifier
